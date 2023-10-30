@@ -20,11 +20,6 @@ Those contain:
 - We use State of the Art Encryption Technology to protect any Data our App collects
 
 
-## About
-
-This Account is only the development and administrator account for the [V3S Organization](https://github.com/V3Sofficial). Please go there for products, projects, further information and more.
-
-
 ## Contact
 
 ### Support
